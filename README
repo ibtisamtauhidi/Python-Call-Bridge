@@ -1,0 +1,9 @@
+Call Bridge is a popular card game that I play with my friends. Since I am a big fan of the game, I thought it would be cool if I could play the game alone on my laptop. So I am in the process of writing this game in which the user (aka me) plays a round of the game against three computer generated bots.
+
+The file uploaded right now is basically 'proof of concept' in which the game is playable in console. I am making the GUI of this game using TkInter. The GUI is (or the last 4 months... I am big fuckin' procastinator.) currently in closed development. The classes are ready. I just need to put them together.
+
+Download the single file of the game, change its permission to to make it executable and run it.
+
+On a Linux machine, if you have Python installed, the steps after navigating to the directory containing the file 'pycb-core' and typinfg the following in order:
+$chmod u+x pycb-core
+$./pycb-core
